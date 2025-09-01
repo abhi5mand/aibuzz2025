@@ -36,6 +36,7 @@ Future Scope:
 - Expansion to mobile platforms.
 
 ## Installation & Setup steps
+Note: Make sure you have sudo access on the device.
 ```bash
 # Create virtual environment
 python3 -m venv venv
